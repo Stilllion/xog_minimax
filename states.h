@@ -1,0 +1,1 @@
+enum States {start_game, human_turn, ai_turn, game_over, pause};
